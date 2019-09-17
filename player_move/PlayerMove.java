@@ -1,6 +1,6 @@
 package ZadaniaWlasne.Zadania.tictactoe.player_move;
 
-import ZadaniaWlasne.Zadania.tictactoe.spineApp.TicTacToe;
+import ZadaniaWlasne.Zadania.tictactoe.BackgroundApp.TicTacToe;
 
 /**
  * @author Tomasz Filo Zegarlicki

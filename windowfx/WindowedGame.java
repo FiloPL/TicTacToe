@@ -2,8 +2,8 @@ package ZadaniaWlasne.Zadania.tictactoe.windowfx;
 
 import ZadaniaWlasne.Zadania.tictactoe.player_move.HumanPlayerMove;
 import ZadaniaWlasne.Zadania.tictactoe.player_move.PlayerMove;
-import ZadaniaWlasne.Zadania.tictactoe.spineApp.Player;
-import ZadaniaWlasne.Zadania.tictactoe.spineApp.TicTacToe;
+import ZadaniaWlasne.Zadania.tictactoe.BackgroundApp.Player;
+import ZadaniaWlasne.Zadania.tictactoe.BackgroundApp.TicTacToe;
 import javafx.geometry.Pos;
 import javafx.scene.Node;
 import javafx.scene.Scene;
@@ -36,7 +36,7 @@ public class WindowedGame implements Refresh {
     }
 
 
-    private final String VERSION = "0.1";
+    private final String VERSION = "2.01";
     private Stage primaryStage;
     private TicTacToe game;
     private Button btnNewGame;

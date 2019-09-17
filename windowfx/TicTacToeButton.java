@@ -1,6 +1,6 @@
 package ZadaniaWlasne.Zadania.tictactoe.windowfx;
 
-import ZadaniaWlasne.Zadania.tictactoe.spineApp.TicTacToe;
+import ZadaniaWlasne.Zadania.tictactoe.BackgroundApp.TicTacToe;
 import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.image.Image;

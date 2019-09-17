@@ -1,4 +1,4 @@
-package ZadaniaWlasne.Zadania.tictactoe.spineApp;
+package ZadaniaWlasne.Zadania.tictactoe.BackgroundApp;
 
 /**
  * @author Tomasz Filo Zegarlicki

@@ -1,8 +1,8 @@
 package ZadaniaWlasne.Zadania.tictactoe;
 
 import ZadaniaWlasne.Zadania.tictactoe.player_move.PlayerMove;
-import ZadaniaWlasne.Zadania.tictactoe.spineApp.Player;
-import ZadaniaWlasne.Zadania.tictactoe.spineApp.TicTacToe;
+import ZadaniaWlasne.Zadania.tictactoe.BackgroundApp.Player;
+import ZadaniaWlasne.Zadania.tictactoe.BackgroundApp.TicTacToe;
 
 import static ZadaniaWlasne.Zadania.tictactoe.BoardPrinter.printBoard;
 import static ZadaniaWlasne.Zadania.tictactoe.Input.getInt;
